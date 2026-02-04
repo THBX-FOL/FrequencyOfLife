@@ -68,7 +68,7 @@ See:
   
 ## License  
   
-Open repositories are licensed under **MIT** or **Apache 2.0** (see individual repos).  
+Open repositories are licensed under **MIT** (see individual repos).  
 Core Frequency of Life intellectual property remains proprietary.  
   
 ---  
@@ -77,4 +77,4 @@ Core Frequency of Life intellectual property remains proprietary.
   
 Frequency of Life is about aligning technology with human experience — responsibly, ethically, and creatively.  
   
-Welcome to the frequency.  
+Welcome to the building blocks to the frequency of your life.  
